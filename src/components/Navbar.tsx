@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react"
 import { Sparkles, Menu, X, ArrowUpRight } from "lucide-react"
+import { PERSONAL_INFO } from "../data/portfolioData"
 
 interface NavbarProps {
   activeSection: string
@@ -52,7 +53,7 @@ export const Navbar: React.FC<NavbarProps> = ({ activeSection }) => {
           <div className="relative w-10 h-10 rounded-full bg-gradient-to-br from-cyan-500/20 via-blue-600/30 to-indigo-950/80 p-px border border-cyan-400/40 shadow-lg shadow-cyan-500/20 group-hover:border-cyan-300 group-hover:shadow-cyan-400/40 transition-all duration-300 flex items-center justify-center">
             <div className="w-full h-full rounded-full bg-[#070d24]/90 flex items-center justify-center">
               <span className="font-heading font-bold text-sm tracking-wider text-transparent bg-clip-text bg-gradient-to-r from-white via-cyan-200 to-cyan-400 group-hover:scale-105 transition-transform">
-                OS
+                {PERSONAL_INFO.initials}
               </span>
             </div>
             {/* Orbital tiny dot */}

@@ -21,7 +21,7 @@ export const Skills: React.FC = () => {
 
   // Flattened skills with their group title
   const allSkills = useMemo(() => {
-    const list: SkillItem & { groupName: string }[] = []
+    const list: (SkillItem & { groupName: string })[] = []
     SKILL_GROUPS.forEach((group) => {
       group.skills.forEach((skill) => {
         list.push({ ...skill, groupName: group.title })

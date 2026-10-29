@@ -19,3 +19,14 @@ logs/
 # beside it.
 /.plugins/
 /.opencode-skills/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+
+# Testing & Coverage
+coverage/

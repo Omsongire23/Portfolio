@@ -9,18 +9,18 @@ import {
 
 export const PERSONAL_INFO = {
   name: "Om Songire",
-  initials: "OS",
-  title: "Generative AI & LLM Applications · AI/ML · Developer Community",
-  tagline: "I build AI systems — and help the communities around them grow.",
+  initials: "OM",
+  title: "Generative AI & LLM Applications · AI/ML · Community",
+  tagline: "Generative AI · AI/ML · Data Science · DevOps · Community Building",
   location: "Nashik, Maharashtra, India",
   bioSummary:
-    "Computer Engineering undergraduate dedicated to building reliable Generative AI systems, context-grounded RAG architectures, and production DevOps pipelines. Bridging the gap between cutting-edge AI research and dependable software, while actively empowering the next generation of engineers through technical community leadership.",
+    "Build intelligent AI applications, RAG-powered systems, and cloud-native solutions, turning data into actionable insights while empowering developer communities to learn, build, and grow together.",
   githubUrl: "https://github.com/Omsongire23",
   linkedinUrl: "https://www.linkedin.com/in/omsongire/",
-  email: "omsongire23@gmail.com",
+  email: "omsantoshsongire23@gmail.com",
   resumePath: "/resume.pdf",
   backupResumePath: "/assets/Om_Songire_Resume.pdf",
-  availability: "Available for AI Engineering & DevOps Opportunities",
+  availability: "Available for Opening Oppurtunity!",
 }
 
 export const IMPACT_METRICS: ImpactMetric[] = [

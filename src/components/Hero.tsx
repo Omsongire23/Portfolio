@@ -68,9 +68,7 @@ export const Hero: React.FC = () => {
 
         {/* Concise Credible Summary */}
         <p className="text-sm sm:text-base md:text-lg text-slate-300/90 max-w-2xl mb-8 leading-relaxed font-light">
-          Computer Engineering student specializing in building production-ready
-          Generative AI systems, RAG pipelines, and cloud-native automation
-          while spearheading community learning across Maharashtra.
+          {PERSONAL_INFO.bioSummary}
         </p>
 
         {/* Location & Status Indicator */}

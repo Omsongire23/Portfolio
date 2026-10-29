@@ -8,7 +8,7 @@ export const CosmicCanvas: React.FC<CosmicCanvasProps> = ({
   reducedMotion = false,
 }) => {
   const canvasRef = useRef<HTMLCanvasElement | null>(null)
-  const mouseRef = useRef<{ x: number y: number active: boolean }>({
+  const mouseRef = useRef<{ x: number; y: number; active: boolean }>({
     x: 0,
     y: 0,
     active: false,
