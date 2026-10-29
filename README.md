@@ -31,7 +31,7 @@
 
 ---
 
-## 🧭 About Me
+## About Me
 
 I am an undergraduate Computer Engineering student based in **Nashik, Maharashtra, India**, passionate about building reliable Generative AI systems, context-grounded RAG architectures, and scalable cloud-native pipelines. Beyond engineering, I actively lead and foster developer communities across Maharashtra.
 
@@ -43,7 +43,7 @@ I am an undergraduate Computer Engineering student based in **Nashik, Maharashtr
 
 ---
 
-## ✨ Features & Architecture
+## Features & Architecture
 
 - **🌌 Celestial Particle Canvas (`CosmicCanvas.tsx`)**: An interactive HTML5 canvas space engine with twinkling stars, celestial orbital mechanics, interactive cursor trails, and full `prefers-reduced-motion` accessibility support.
 - **⚡ Modern Technology Stack**: Built with React 19, TypeScript, and the latest Tailwind CSS v4 running on Vite 8 for instant hot-module replacement and ultra-fast production builds.
@@ -54,7 +54,7 @@ I am an undergraduate Computer Engineering student based in **Nashik, Maharashtr
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -66,7 +66,7 @@ I am an undergraduate Computer Engineering student based in **Nashik, Maharashtr
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 portfolio/
@@ -106,7 +106,7 @@ portfolio/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -145,7 +145,7 @@ Open [http://localhost:5173](http://localhost:5173) (or the displayed port) in y
 
 ---
 
-## 📜 Available Scripts
+## Available Scripts
 
 | Command | Action |
 | :--- | :--- |
@@ -157,7 +157,7 @@ Open [http://localhost:5173](http://localhost:5173) (or the displayed port) in y
 
 ---
 
-## 🌟 Key Highlights & Leadership
+## Key Highlights & Leadership
 
 - **Core Team Member — GDG Nashik**: Co-organizing DevFest and Google Developer community initiatives across the region.
 - **Campus Lead — ML Nashik**: Leading hands-on Machine Learning, Python, and Generative AI bootcamps for student developers.
@@ -168,14 +168,10 @@ Open [http://localhost:5173](http://localhost:5173) (or the displayed port) in y
 
 ---
 
-## 📬 Contact & Connect
+## Contact & Connect
 
 - **Email:** [omsantoshsongire23@gmail.com](mailto:omsantoshsongire23@gmail.com)
 - **LinkedIn:** [linkedin.com/in/omsongire](https://www.linkedin.com/in/omsongire/)
 - **GitHub:** [github.com/Omsongire23](https://github.com/Omsongire23)
 
 ---
-
-<div align="center">
-  <sub>Designed & Developed by <strong>Om Songire</strong>. Open-source under the MIT License.</sub>
-</div>
