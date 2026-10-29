@@ -1,4 +1,8 @@
-#                                                                                  Personal Portfolio
+<div align="center">
+
+# Personal Portfolio
+
+</div>
 
 <div align="center">
 
