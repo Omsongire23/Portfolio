@@ -1,0 +1,258 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 6027 >>
+stream
+BT
+/F1 22 Tf
+0.08 0.12 0.28 rg
+50 780 Td
+(OM SONGIRE) Tj
+ET
+BT
+/F2 10 Tf
+0.15 0.35 0.65 rg
+50 764 Td
+(Generative AI & LLM Applications | AI/ML | DevOps | Cloud Systems) Tj
+ET
+BT
+/F2 8.5 Tf
+0.35 0.38 0.45 rg
+50 748 Td
+(Nashik, Maharashtra, India  |  LinkedIn: linkedin.com/in/omsongire  |  GitHub: github.com/Omsongire23  |  Email: omsongire23@gmail.com) Tj
+ET
+0.8 0.85 0.92 RG 1 w
+50 738 m 562 738 l S
+BT
+/F1 11 Tf
+0.08 0.12 0.28 rg
+50 722 Td
+(PROFESSIONAL SUMMARY) Tj
+ET
+BT
+/F2 8.5 Tf
+0.22 0.25 0.3 rg
+50 706 Td
+(Computer Engineering undergraduate focused on Generative AI, Retrieval-Augmented Generation (RAG), and cloud-native DevOps.) Tj
+0 -12 Td
+(Passionate community leader with proven impact organizing 6+ technical workshops and empowering 1,000+ developers across) Tj
+0 -12 Td
+(GDG Nashik, ML Nashik, and Grafana & Friends Mumbai.) Tj
+ET
+BT
+/F1 11 Tf
+0.08 0.12 0.28 rg
+50 666 Td
+(TECHNICAL SKILLS) Tj
+ET
+BT
+/F2 8.5 Tf
+0.22 0.25 0.3 rg
+50 650 Td
+(Languages & Core: Python, JavaScript, TypeScript, SQL, Bash/Shell, C++, Git, Linux) Tj
+0 -12 Td
+(Generative AI & LLMs: Google Gemini API, RAG, LangChain, Sentence Transformers, ChromaDB, FAISS, Prompt Engineering) Tj
+0 -12 Td
+(Machine Learning & Data: scikit-learn, Pandas, NumPy, OpenCV, Feature Engineering, Exploratory Data Analysis) Tj
+0 -12 Td
+(DevOps & Cloud: Docker, Kubernetes, AWS (EC2, S3), Jenkins, GitHub Actions, Linux Administration, CI/CD Pipelines) Tj
+0 -12 Td
+(Frameworks & Tools: FastAPI, React, Node.js, Playwright, Tailwind CSS, Postman, VS Code, Vite) Tj
+ET
+BT
+/F1 11 Tf
+0.08 0.12 0.28 rg
+50 574 Td
+(EXPERIENCE) Tj
+ET
+BT
+/F1 9.5 Tf
+0.1 0.15 0.3 rg
+50 558 Td
+(DevOps Intern  -  Deboistech IT Solutions) Tj
+/F2 8.5 Tf
+0.4 0.45 0.5 rg
+300 0 Td
+(June 2026 - September 2026 / Remote) Tj
+ET
+BT
+/F2 8.5 Tf
+0.22 0.25 0.3 rg
+60 544 Td
+(- Engineered automated CI/CD deployment pipelines using GitHub Actions and Jenkins, cutting delivery turnaround time.) Tj
+0 -11 Td
+(- Administered containerized services via Docker and Kubernetes clusters on AWS infrastructure with high availability.) Tj
+0 -11 Td
+(- Configured infrastructure monitoring pipelines and performed feature engineering on operational metrics for anomaly detection.) Tj
+0 -11 Td
+(- Automated operational workflows using Linux bash scripts, enhancing reliability and reducing human overhead.) Tj
+ET
+BT
+/F1 9.5 Tf
+0.1 0.15 0.3 rg
+50 488 Td
+(Machine Learning Intern  -  Edunet Foundation (IBM SkillsBuild)) Tj
+/F2 8.5 Tf
+0.4 0.45 0.5 rg
+300 0 Td
+(January 2025 - March 2025 / Remote) Tj
+ET
+BT
+/F2 8.5 Tf
+0.22 0.25 0.3 rg
+60 474 Td
+(- Trained predictive machine learning models using scikit-learn, Pandas, and NumPy for structured benchmark tasks.) Tj
+0 -11 Td
+(- Executed data preprocessing, feature selection, and model cross-validation to maximize classification accuracy.) Tj
+0 -11 Td
+(- Generated technical validation reports and data visualizations communicating key model findings to stakeholders.) Tj
+ET
+BT
+/F1 11 Tf
+0.08 0.12 0.28 rg
+50 428 Td
+(SELECTED PROJECTS) Tj
+ET
+BT
+/F1 9 Tf
+0.1 0.15 0.3 rg
+50 412 Td
+(VERIQ  -  Compliance Readiness & Audit Workflow Automation) Tj
+/F2 8 Tf
+0.2 0.4 0.7 rg
+280 0 Td
+([FastAPI, React, ChromaDB, LangChain, Tailwind CSS]) Tj
+ET
+BT
+/F2 8.5 Tf
+0.22 0.25 0.3 rg
+60 398 Td
+(- Built an AI audit assistant validating enterprise compliance documents against regulatory frameworks with semantic search.) Tj
+0 -11 Td
+(- Integrated ChromaDB vector store for automated evidence mapping and clause verification with contextual citations.) Tj
+ET
+BT
+/F1 9 Tf
+0.1 0.15 0.3 rg
+50 364 Td
+(APPEX AI Test Framework  -  Autonomous Playwright QA Automation) Tj
+/F2 8 Tf
+0.2 0.4 0.7 rg
+280 0 Td
+([Python, Playwright, LLM Agents, PyTest]) Tj
+ET
+BT
+/F2 8.5 Tf
+0.22 0.25 0.3 rg
+60 350 Td
+(- Architected an automated testing engine leveraging LLMs to parse acceptance criteria and synthesize resilient Playwright scripts.) Tj
+0 -11 Td
+(- Created self-healing selector routines that dynamically recover from UI mutations during continuous regression runs.) Tj
+ET
+BT
+/F1 9 Tf
+0.1 0.15 0.3 rg
+50 316 Td
+(EdutechAssistant  -  RAG-Powered Interactive AI Tutor) Tj
+/F2 8 Tf
+0.2 0.4 0.7 rg
+280 0 Td
+([Python, Google Gemini API, LangChain, FAISS]) Tj
+ET
+BT
+/F2 8.5 Tf
+0.22 0.25 0.3 rg
+60 302 Td
+(- Developed a conversational tutor answering student queries grounded strictly in curriculum textbooks with vector retrieval.) Tj
+0 -11 Td
+(- Implemented source citation rendering and adaptive quiz generation using Gemini API and FAISS vector indices.) Tj
+ET
+BT
+/F1 9 Tf
+0.1 0.15 0.3 rg
+50 268 Td
+(Digiton  -  Digital Image Forensics & Tampering Analysis) Tj
+/F2 8 Tf
+0.2 0.4 0.7 rg
+280 0 Td
+([Python, OpenCV, scikit-learn, NumPy]) Tj
+ET
+BT
+/F2 8.5 Tf
+0.22 0.25 0.3 rg
+60 254 Td
+(- Implemented error level analysis (ELA) and EXIF metadata verification to detect photo splicing, artifacts, and manipulation.) Tj
+ET
+BT
+/F1 11 Tf
+0.08 0.12 0.28 rg
+50 220 Td
+(LEADERSHIP & DEVELOPER COMMUNITY) Tj
+ET
+BT
+/F2 8.5 Tf
+0.22 0.25 0.3 rg
+50 204 Td
+(- Core Team Member, Google Developer Groups (GDG) Nashik: Organized DevFests and hands-on AI/Cloud workshops.) Tj
+0 -12 Td
+(- Campus Lead, ML Nashik: Mentored student cohorts in applied machine learning, Python foundations, and model building.) Tj
+0 -12 Td
+(- Co-organizer, Grafana & Friends Mumbai: Assisted community meetups centered on observability and cloud architectures.) Tj
+0 -12 Td
+(- Facilitated 6+ technical workshops empowering over 1,000+ student developers across India.) Tj
+ET
+BT
+/F1 11 Tf
+0.08 0.12 0.28 rg
+50 144 Td
+(EDUCATION & CERTIFICATIONS) Tj
+ET
+BT
+/F1 9 Tf
+0.1 0.15 0.3 rg
+50 128 Td
+(Bachelor of Engineering (B.E.) in Computer Engineering) Tj
+/F2 8.5 Tf
+0.4 0.45 0.5 rg
+320 0 Td
+(Graduation: Expected 2026) Tj
+ET
+BT
+/F2 8.5 Tf
+0.22 0.25 0.3 rg
+50 114 Td
+(Nashik, Maharashtra, India  |  Relevant Coursework: Data Structures, Algorithms, DBMS, Operating Systems, AI/ML, Cloud Computing) Tj
+0 -12 Td
+(Certifications: IBM SkillsBuild AI & Data Science Certification | AWS Cloud Practitioner Essentials | Google GenAI Fundamentals) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000257 00000 n 
+0000006336 00000 n 
+0000006411 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+6481
+%%EOF
