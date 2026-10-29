@@ -1,4 +1,4 @@
-# 🌌 Om Songire — Personal Portfolio
+# Personal Portfolio
 
 <div align="center">
 
